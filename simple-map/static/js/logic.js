@@ -2,7 +2,7 @@
 // Set the longitude, latitude, and the starting zoom level
 var myMap = L.map("map", {
     center: [41.977879, -91.665627],
-    zoom: 13
+    zoom: 5
   });
   
   // Add a tile layer (the background map image) to our map
